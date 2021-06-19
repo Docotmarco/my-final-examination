@@ -1,0 +1,9 @@
+Git is a distributed Version Control sytem that enables 
+you to save copies  of files frequently with the ability
+ to merge work done by more than 1 person and also stores 
+ each change to a file by saving the entire file.
+
+github is a remote source that you normally push and 
+pull those committed changes to if you have (or are added to)
+ such a repository and  you can make changes as you 
+ wish by pulling and pushing them to a local machine.
