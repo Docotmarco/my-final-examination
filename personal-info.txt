@@ -1,0 +1,8 @@
+name: Marco docot
+Year/sec: BSIT-2E
+Gender: Male
+Age:25
+Birthday: march 21,1995
+Address: Sanlorenzo Bibincahan Sorsogon City
+Contact no: 09-1040-36057
+Sports: Football
