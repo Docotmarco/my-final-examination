@@ -1,0 +1,10 @@
+The imporatance of git it is functional; it performs well,
+ is secure and flexible. In other words, it has what is needed 
+ by most teams and individual developers. Using Git, teams 
+ can work seamlessly and synchronously, with all the team
+  members being able to use the same files.
+
+GitHub gives you credit for the contributions you provide on 
+the different projects worldwide. This is mentioned in your
+ profile. So, if you are a recruiter or someone looking for a job,
+  GitHub provides an excellent platform for you.
